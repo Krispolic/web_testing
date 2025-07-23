@@ -8,7 +8,7 @@ I tested the web store demowebshop.tricentis.com and prepared various types of t
 ✅ [Checklist](https://docs.google.com/spreadsheets/d/1-381bwj3Cr8oPoC5VjSDn74_Y6NcnBDamfH-SyrK6FE/edit?usp=sharing)
     Covers test points for the shopping cart and payment module.
 
-🐞 [Bug Report example via YouTrack](https://drive.google.com/file/d/1q2cEs2tfLcFyhaDZXgd1bsvnba6jpTOm/view?usp=sharing) with an attachmet
+🐞 [Bug Report example via YouTrack](https://drive.google.com/drive/folders/1bPUm3zMW69b28EAWsxkH6qUZNn-FATmt?usp=sharing) with an attachmet
 
 🔍 [Test cases via TestIT](https://drive.google.com/file/d/1uB8m7TXVQXfmYeZjec6ibbFi5maxA1xF/view?usp=sharing)
     Test cases for verifying shopping cart and payment functionality.
